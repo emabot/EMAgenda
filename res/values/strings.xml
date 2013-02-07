@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">EMAgenda</string>
+    <string name="menu_repas">Menu</string>
+    <string name="menu_settings2">Parametres</string>
+    <string name="title_activity_main">EMAgenda</string>
+    <string name="promotion">Promotions :</string>
+    <string name="nom">Nom :</string>
+    <string name="effacer">Effacer</string>
+    <string name="test">Test</string>
+    <string name="title_activity_presentation">PresentationActivity</string>
+    <string name="synchro_google_agenda">Synchronisation Google Agenda</string>
+
+</resources>
